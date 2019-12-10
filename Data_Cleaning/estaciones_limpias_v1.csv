@@ -1,0 +1,196 @@
+,nombre_estacion,stop_lat,stop_lon,primera_estacion,segunda_estacion,tercera_estacion,cuarta_estacion
+0,Colegio Militar,19.44864628,-99.17122364,Metro 2,Ninguna,Ninguna,Ninguna
+1,Chapultepec,19.42025648,-99.17658806,Metro 1,Ninguna,Ninguna,Ninguna
+2,Apatlaco,19.378298,-99.10934,Metro 8,Ninguna,Ninguna,Ninguna
+3,Calle 11,19.32025578,-99.08486724,Metro 12,Ninguna,Ninguna,Ninguna
+4,Oceanía,19.44542916,-99.08690572,Metro 5,Metro B,Ninguna,Ninguna
+5,Mixcoac,19.37567873,-99.18686628,Metro 12,Metro 7,Ninguna,Ninguna
+6,Puebla,19.40697045,-99.08233523,Metro 9,Ninguna,Ninguna,Ninguna
+7,La Raza_1_3,19.468965,-99.136176,Metro 5,Metro 3,Ninguna,Ninguna
+8,Jamaica,19.40894369,-99.12227869,Metro 9,Metro 4,Ninguna,Ninguna
+9,Cuauhtémoc_1_2,19.42565962,-99.15455103,Metro 1,Ninguna,Ninguna,Ninguna
+10,Ferrería,19.49039233,-99.173702,Metro 6,Ninguna,Ninguna,Ninguna
+11,Ermita,19.36186271,-99.14263129,Metro 2,Ninguna,Ninguna,Ninguna
+12,Tacuba_1,19.45913691,-99.18803573,Metro 2,Metro 7,Ninguna,Ninguna
+13,Tasqueña,19.34400644,-99.14105415,Metro 2,Ninguna,Ninguna,Ninguna
+14,Velódromo,19.40811392,-99.10283804,Metro 9,Ninguna,Ninguna,Ninguna
+15,Xola_1,19.3950293,-99.13758874,Metro 2,Ninguna,Ninguna,Ninguna
+16,Constitución de 1917,19.345135,-99.063367,Metro 8,Ninguna,Ninguna,Ninguna
+17,Agrícola Oriental,19.40404596,-99.06982541,Metro A,Ninguna,Ninguna,Ninguna
+18,Eje Central_1_3,19.36118453,-99.15133238,Metro 12,Ninguna,Ninguna,Ninguna
+19,Copilco,19.33597857,-99.17657733,Metro 3,Ninguna,Ninguna,Ninguna
+20,Talismán_1_2,19.47415847,-99.10779476,Metro 4,Ninguna,Ninguna,Ninguna
+21,Potrero_1_2,19.476413,-99.131748,Metro 3,Ninguna,Ninguna,Ninguna
+22,Instituto del Petroleo,19.49054404,-99.14638638,Metro 6,Metro 5,Ninguna,Ninguna
+23,Hospital General_1,19.41369961,-99.1531992,Metro 3,Ninguna,Ninguna,Ninguna
+24,General Anaya,19.35319801,-99.14478779,Metro 2,Ninguna,Ninguna,Ninguna
+25,Hospital 20 de Nov.,19.37192372,-99.17099833,Metro 12,Ninguna,Ninguna,Ninguna
+26,Pantitlán_1_2,19.41616858,-99.07434225,Metro 1,Metro 5,Metro 9,Metro A
+27,Nativitas,19.37938304,-99.13987398,Metro 2,Ninguna,Ninguna,Ninguna
+28,Valle Gómez,19.45868169,-99.11988616,Metro 5,Ninguna,Ninguna,Ninguna
+29,Miguel Ángel de Quevedo,19.34651696,-99.18053627,Metro 3,Ninguna,Ninguna,Ninguna
+30,Niños Héroes_1,19.41946724,-99.15023804,Metro 3,Ninguna,Ninguna,Ninguna
+31,Lagunilla,19.44300109,-99.13107634,Metro B,Ninguna,Ninguna,Ninguna
+32,Mexicaltzingo,19.35744944,-99.12191391,Metro 12,Ninguna,Ninguna,Ninguna
+33,Politécnico,19.499964000000002,-99.14880600000001,Metro 5,Ninguna,Ninguna,Ninguna
+34,San Joaquín,19.44553033,-99.19160843,Metro 7,Ninguna,Ninguna,Ninguna
+35,Tepalcates_1,19.39072824,-99.04651165,Metro A,Ninguna,Ninguna,Ninguna
+36,Zócalo,19.432602,-99.131879,Metro 2,Ninguna,Ninguna,Ninguna
+37,Instituto del Petróleo_1,19.48983606,-99.14455175,Metro 6,Metro 5,Ninguna,Ninguna
+38,Hidalgo_1_3,19.43674867,-99.14681554,Metro 3,Metro 2,Ninguna,Ninguna
+39,Iztacalco_1,19.388092,-99.112086,Metro 8,Ninguna,Ninguna,Ninguna
+40,Impulsora,19.484987,-99.048743,Metro B,Ninguna,Ninguna,Ninguna
+41,Candelaria,19.42909974,-99.11989689,Metro 1,Metro 4,Ninguna,Ninguna
+42,Barranca del Muerto,19.361488199999997,-99.18895841,Metro 7,Ninguna,Ninguna,Ninguna
+43,Deportivo 18 de Marzo_1_3,19.484050699999997,-99.12543297,Metro 3,Metro 6,Ninguna,Ninguna
+44,Chabacano_1_2,19.40891333,-99.13542151,Metro 2,Metro 8,Metro 9,Ninguna
+45,Consulado_1,19.455485,-99.11348104,Metro 5,Metro 4,Ninguna,Ninguna
+46,Bosque de Aragón,19.45807473,-99.06927824,Metro B,Ninguna,Ninguna,Ninguna
+47,Allende,19.43547387,-99.13670897,Metro 2,Ninguna,Ninguna,Ninguna
+48,Pino Suárez_1_2,19.42595305,-99.13268566,Metro 1,Metro 2,Ninguna,Ninguna
+49,Villa de Cortés,19.38746949,-99.13862944,Metro 2,Ninguna,Ninguna,Ninguna
+50,Viaducto_1,19.40074699,-99.13663387,Metro 2,Ninguna,Ninguna,Ninguna
+51,Vallejo,19.49031142,-99.15479779,Metro 6,Ninguna,Ninguna,Ninguna
+52,Morelos_1_3,19.43973327,-99.11790133,Metro 4,Metro B,Ninguna,Ninguna
+53,Jamaica_1,19.41014786,-99.12203193,Metro 4,Metro 9,Ninguna,Ninguna
+54,Guerrero_1_4,19.44522682,-99.1463542,Metro B,Metro 3,Ninguna,Ninguna
+55,Oceanía_1,19.44572255,-99.08683062,Metro B,Metro 5,Ninguna,Ninguna
+56,Doctores,19.42049932,-99.14335012,Metro 8,Ninguna,Ninguna,Ninguna
+57,Mixhuca,19.40820499,-99.11285877,Metro 9,Ninguna,Ninguna,Ninguna
+58,Los Reyes,19.35877546,-98.97670984,Metro A,Ninguna,Ninguna,Ninguna
+59,Zapata_1,19.370547199999997,-99.16540861,Metro 12,Metro 3,Ninguna,Ninguna
+60,Centro Médico_1,19.40749665,-99.15531278,Metro 3,Metro 9,Ninguna,Ninguna
+61,Cerro de la Estrella,19.355601,-99.085872,Metro 8,Ninguna,Ninguna,Ninguna
+62,Bondojito_1,19.46450842,-99.1117537,Metro 4,Ninguna,Ninguna,Ninguna
+63,Canal de San Juan_1_3,19.39821706,-99.05969739,Metro A,Ninguna,Ninguna,Ninguna
+64,Pantitlán,19.41528826,-99.07505035,Metro 5,Metro 1,Metro 9,Metro A
+65,San Andrés Tomatlán,19.3272315,-99.10259128,Metro 12,Ninguna,Ninguna,Ninguna
+66,Chabacano,19.408513,-99.135489,Metro 9,Metro 2,Metro 8,Ninguna
+67,Eduardo Molina_1,19.45112485,-99.10544515,Metro 5,Ninguna,Ninguna,Ninguna
+68,Ciudad Deportiva,19.40811392,-99.09135818,Metro 9,Ninguna,Ninguna,Ninguna
+69,Cuatro Caminos,19.458454,-99.21464300000001,Metro 2,Ninguna,Ninguna,Ninguna
+70,Guelatao,19.38459525,-99.03579354,Metro A,Ninguna,Ninguna,Ninguna
+71,Martín Carrera_1,19.4837675,-99.10599232,Metro 4,Metro 6,Ninguna,Ninguna
+72,Morelos_1_2,19.438426,-99.11933,Metro B,Metro 4,Ninguna,Ninguna
+73,Insurgentes_1_5,19.42359552,-99.16325212,Metro 1,Ninguna,Ninguna,Ninguna
+74,Lindavista,19.4875806,-99.13434863,Metro 6,Ninguna,Ninguna,Ninguna
+75,Nezahualcóyotl,19.472534,-99.054375,Metro B,Ninguna,Ninguna,Ninguna
+76,Moctezuma_1,19.426271,-99.109803,Metro 1,Ninguna,Ninguna,Ninguna
+77,Bellas Artes_1_2,19.43595951,-99.14155841,Metro 2,Metro 8,Ninguna,Ninguna
+78,Canal del Norte_1,19.44866652,-99.11589503,Metro 4,Ninguna,Ninguna,Ninguna
+79,Buenavista_1_4,19.44615757,-99.15289879,Metro B,Ninguna,Ninguna,Ninguna
+80,Martín Carrera_1_2,19.48231101,-99.10554171,Metro 6,Metro 4,Ninguna,Ninguna
+81,Pantitlán_1,19.4146103,-99.07262564,Metro A,Metro 1,Metro 5,Metro 9
+82,Portales,19.36976784,-99.14130092,Metro 2,Ninguna,Ninguna,Ninguna
+83,Múzquiz,19.50096117,-99.04171586,Metro B,Ninguna,Ninguna,Ninguna
+84,Nopalera,19.29939771,-99.04621124,Metro 12,Ninguna,Ninguna,Ninguna
+85,Constituyentes_1_2,19.41129131,-99.19138312,Metro 7,Ninguna,Ninguna,Ninguna
+86,Hangares,19.423251,-99.08709499999999,Metro 5,Ninguna,Ninguna,Ninguna
+87,Santa Anita_1,19.40425847,-99.12120581,Metro 4,Metro 8,Ninguna,Ninguna
+88,Tezozómoc,19.49448847,-99.19593215,Metro 6,Ninguna,Ninguna,Ninguna
+89,Deportivo 18 de Marzo_1_4,19.48358544,-99.12576556,Metro 6,Metro 3,Ninguna,Ninguna
+90,Atlalilco_1,19.35264126,-99.10632491,Metro 12,Metro 8,Ninguna,Ninguna
+91,Culhuacán,19.33887391,-99.10894275,Metro 12,Ninguna,Ninguna,Ninguna
+92,Tacubaya_1,19.40213338,-99.18823957,Metro 1,Metro 7,Metro 9,Ninguna
+93,Santa Anita,19.40397512,-99.12136674,Metro 8,Metro 4,Ninguna,Ninguna
+94,Tacuba,19.458382999999998,-99.188501,Metro 7,Metro 2,Ninguna,Ninguna
+95,Río de los Remedios_1,19.49024062,-99.04635072,Metro B,Ninguna,Ninguna,Ninguna
+96,La Villa - Basílica,19.4814715,-99.11815882,Metro 6,Ninguna,Ninguna,Ninguna
+97,Juanacatlán,19.41290022,-99.18207049,Metro 1,Ninguna,Ninguna,Ninguna
+98,Tezonco,19.306124,-99.065867,Metro 12,Ninguna,Ninguna,Ninguna
+99,Olímpica,19.52084286,-99.03298259,Metro B,Ninguna,Ninguna,Ninguna
+100,San Antonio,19.38481791,-99.18661952,Metro 7,Ninguna,Ninguna,Ninguna
+101,Universidad,19.32433595,-99.17407751,Metro 3,Ninguna,Ninguna,Ninguna
+102,Etiopía / Plaza de la Transpatencia,19.39604129,-99.15617108,Metro 3,Ninguna,Ninguna,Ninguna
+103,Escuadrón 201,19.36449442,-99.10931826,Metro 8,Ninguna,Ninguna,Ninguna
+104,Deportivo Oceanía,19.45077077,-99.07917023,Metro B,Ninguna,Ninguna,Ninguna
+105,Gómez Farías,19.41608763,-99.09070373,Metro 1,Ninguna,Ninguna,Ninguna
+106,Juárez_1_3,19.43336942,-99.14771676,Metro 3,Ninguna,Ninguna,Ninguna
+107,Chabacano_1,19.40853892,-99.13574338,Metro 8,Metro 2,Metro 9,Ninguna
+108,Blvd. Puerto Aéreo,19.41958866,-99.09606814,Metro 1,Ninguna,Ninguna,Ninguna
+109,Chilpancingo_1_2,19.40575613,-99.1683054,Metro 9,Ninguna,Ninguna,Ninguna
+110,Centro Médico_1_2,19.40636329,-99.15504456,Metro 9,Metro 3,Ninguna,Ninguna
+111,Consulado,19.45682033,-99.11388874,Metro 4,Metro 5,Ninguna,Ninguna
+112,Azcapotzalco_1,19.49067553,-99.18621182,Metro 6,Ninguna,Ninguna,Ninguna
+113,San Juan de Letrán,19.43098165,-99.14116144,Metro 8,Ninguna,Ninguna,Ninguna
+114,Refinería,19.46911098,-99.18985963,Metro 7,Ninguna,Ninguna,Ninguna
+115,Pantitlán_1_3,19.414885,-99.07251600000001,Metro 9,Metro 1,Metro 5,Metro A
+116,Viveros,19.35376487,-99.17542934,Metro 3,Ninguna,Ninguna,Ninguna
+117,Balderas_1_2,19.42729875,-99.14912224,Metro 1,Metro 3,Ninguna,Ninguna
+118,Balderas_1,19.42692438,-99.14881109999999,Metro 3,Metro 1,Ninguna,Ninguna
+119,Autobuses del Norte,19.478595000000002,-99.14047099999999,Metro 5,Ninguna,Ninguna,Ninguna
+120,Acatitla,19.3642515,-99.00597811,Metro A,Ninguna,Ninguna,Ninguna
+121,Salto del Agua,19.42720768,-99.14207339,Metro 8,Metro 1,Ninguna,Ninguna
+122,Polanco,19.43337954,-99.19079304,Metro 7,Ninguna,Ninguna,Ninguna
+123,Norte 45_1,19.48823803,-99.16249037,Metro 6,Ninguna,Ninguna,Ninguna
+124,Panteones,19.458219,-99.20294,Metro 2,Ninguna,Ninguna,Ninguna
+125,Cuitláhuac_1_4,19.45668,-99.181555,Metro 2,Ninguna,Ninguna,Ninguna
+126,Coyuya_1,19.39769,-99.113413,Metro 8,Ninguna,Ninguna,Ninguna
+127,Coyoacán,19.36142746,-99.17056918,Metro 3,Ninguna,Ninguna,Ninguna
+128,La Raza_1_2,19.46907052,-99.13904786,Metro 3,Metro 5,Ninguna,Ninguna
+129,San Antonio Abad,19.4159055,-99.13429499,Metro 2,Ninguna,Ninguna,Ninguna
+130,Zaragoza,19.41179726,-99.08322573,Metro 1,Ninguna,Ninguna,Ninguna
+131,Balbuena,19.42288725,-99.10281658,Metro 1,Ninguna,Ninguna,Ninguna
+132,Aragón,19.45101356,-99.09598231,Metro 5,Ninguna,Ninguna,Ninguna
+133,Mixcoac_1,19.37625563,-99.18774605,Metro 7,Metro 1,Ninguna,Ninguna
+134,Romero Rubio,19.44048194,-99.09420133,Metro B,Ninguna,Ninguna,Ninguna
+135,El Rosario_1,19.50522896,-99.19948339,Metro 6,Metro 7,Ninguna,Ninguna
+136,Garibaldi_1,19.443082,-99.139034,Metro 8,Metro B,Ninguna,Ninguna
+137,Lázaro Cárdenas,19.40702104,-99.14433718,Metro 9,Ninguna,Ninguna,Ninguna
+138,Villa de Aragón,19.4613523,-99.06114578,Metro B,Ninguna,Ninguna,Ninguna
+139,Tecnológico,19.51470467,-99.03568625,Metro B,Ninguna,Ninguna,Ninguna
+140,San Cosme,19.44185787,-99.16094542,Metro 2,Ninguna,Ninguna,Ninguna
+141,UAM-I,19.350327,-99.07480799999999,Metro 8,Ninguna,Ninguna,Ninguna
+142,Santa Marta,19.359804,-98.99589399999999,Metro A,Ninguna,Ninguna,Ninguna
+143,Auditorio,19.42530549,-99.19173717,Metro 7,Ninguna,Ninguna,Ninguna
+144,Aculco,19.37292574,-99.10739779,Metro 8,Ninguna,Ninguna,Ninguna
+145,Pino Suárez_1,19.42543703,-99.13303971,Metro 2,Metro 1,Ninguna,Ninguna
+146,Terminal Aérea,19.43380448,-99.08820391,Metro 5,Ninguna,Ninguna,Ninguna
+147,Sevilla,19.42189565,-99.17074084,Metro 1,Ninguna,Ninguna,Ninguna
+148,Tepito,19.44256606,-99.12323356,Metro B,Ninguna,Ninguna,Ninguna
+149,El Rosario_1_2,19.503954699999998,-99.20029879,Metro 7,Metro 6,Ninguna,Ninguna
+150,Guerrero_1_3,19.44475133,-99.14501309,Metro 3,Metro B,Ninguna,Ninguna
+151,Fray Servando,19.42149092,-99.12033677,Metro 4,Ninguna,Ninguna,Ninguna
+152,Indios Verdes_1,19.495314999999998,-99.119141,Metro 3,Ninguna,Ninguna,Ninguna
+153,Ermita_1,19.36030391,-99.1448307,Metro 12,Ninguna,Ninguna,Ninguna
+154,Eugenia,19.38628539,-99.15724397,Metro 3,Ninguna,Ninguna,Ninguna
+155,Parque de los Venados,19.37046623,-99.15766239,Metro 12,Ninguna,Ninguna,Ninguna
+156,Patriotismo_1_2,19.40559422,-99.1784656,Metro 9,Ninguna,Ninguna,Ninguna
+157,Misterios,19.46290002,-99.13051844,Metro 5,Ninguna,Ninguna,Ninguna
+158,Observatorio,19.397485999999997,-99.20066899999999,Metro 1,Ninguna,Ninguna,Ninguna
+159,Lomas Estrella,19.322001999999998,-99.096696,Metro 12,Ninguna,Ninguna,Ninguna
+160,La Paz,19.35048513,-98.96061659,Metro A,Ninguna,Ninguna,Ninguna
+161,Tlatelolco_1,19.45520174,-99.1430819,Metro 3,Ninguna,Ninguna,Ninguna
+162,La Viga_1,19.406106,-99.125973,Metro 8,Ninguna,Ninguna,Ninguna
+163,Popotla,19.45261196,-99.17546153,Metro 2,Ninguna,Ninguna,Ninguna
+164,Periférico Ote,19.317492,-99.07471899999999,Metro 12,Ninguna,Ninguna,Ninguna
+165,Olivos,19.30328601,-99.05831337,Metro 12,Ninguna,Ninguna,Ninguna
+166,San Lázaro_1_5,19.43079953,-99.11457539,Metro 1,Metro B,Ninguna,Ninguna
+167,San Lázaro_1_4,19.431822,-99.114463,Metro B,Metro 1,Ninguna,Ninguna
+168,Zapotitlán,19.29639028,-99.03402328,Metro 12,Ninguna,Ninguna,Ninguna
+169,Tláhuac,19.28680057,-99.01443243,Metro 12,Ninguna,Ninguna,Ninguna
+170,Hidalgo_1_2,19.4376997,-99.14730906,Metro 2,Metro 3,Ninguna,Ninguna
+171,Atlalilco,19.35570839,-99.10157204,Metro 8,Metro 1,Ninguna,Ninguna
+172,Candelaria_1,19.42917056,-99.11890984,Metro 4,Metro 1,Ninguna,Ninguna
+173,Aquiles Serdán,19.489367,-99.194511,Metro 7,Ninguna,Ninguna,Ninguna
+174,Ciudad Azteca,19.53444312,-99.02711391,Metro B,Ninguna,Ninguna,Ninguna
+175,Camarones,19.47873042,-99.18894768,Metro 7,Ninguna,Ninguna,Ninguna
+176,Salto del Agua_1,19.42698509,-99.14331794,Metro 1,Metro 8,Ninguna,Ninguna
+177,San Pedro de Los Pinos,19.39122414,-99.18572903,Metro 7,Ninguna,Ninguna,Ninguna
+178,R. Flores Magón,19.43628327,-99.10342813,Metro B,Ninguna,Ninguna,Ninguna
+179,Tlaltenco,19.294555,-99.023829,Metro 12,Ninguna,Ninguna,Ninguna
+180,Iztapalapa,19.35760127,-99.09341812,Metro 8,Ninguna,Ninguna,Ninguna
+181,Insurgentes Sur_1,19.37360387,-99.17859435,Metro 12,Ninguna,Ninguna,Ninguna
+182,Bellas Artes_1,19.43649573,-99.14061427,Metro 8,Metro 2,Ninguna,Ninguna
+183,Revolución_1,19.43880248,-99.15389657,Metro 2,Ninguna,Ninguna,Ninguna
+184,Obrera,19.41301153,-99.14392948,Metro 8,Ninguna,Ninguna,Ninguna
+185,Plaza Aragón,19.52822456,-99.02979612,Metro B,Ninguna,Ninguna,Ninguna
+186,Peñón Viejo,19.37291562,-99.0172863,Metro A,Ninguna,Ninguna,Ninguna
+187,Garibaldi,19.443376,-99.139954,Metro B,Metro 8,Ninguna,Ninguna
+188,División del Norte,19.3789276,-99.15950775,Metro 3,Ninguna,Ninguna,Ninguna
+189,Isabel la Católica_1_5,19.4260947,-99.13782477,Metro 1,Ninguna,Ninguna,Ninguna
+190,Merced,19.42546738,-99.12541151,Metro 1,Ninguna,Ninguna,Ninguna
+191,Normal,19.44424548,-99.1671896,Metro 2,Ninguna,Ninguna,Ninguna
+192,Tacubaya_1_2,19.40223457,-99.18664098,Metro 7,Metro 1,Metro 9,Ninguna
+193,Tacubaya_1_3,19.40192086,-99.18734908,Metro 9,Metro 1,Metro 7,Ninguna
+194,Zapata,19.37073951,-99.1645503,Metro 3,Metro 1,Ninguna,Ninguna
