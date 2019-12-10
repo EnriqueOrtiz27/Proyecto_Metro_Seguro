@@ -19,6 +19,6 @@
 	La segunda base de datos está en el archivo 'estaciones-metro.csv'. Esta base es mucho más sencilla y pequeña.
 	Simplemente tenemos los nombres de las 195 estaciones de metro de la CDMX, su ubicación geográfica, así como las 
 	líneas con las que hace correspondencia. Igual que con la primera base de datos, me encargo de explorar y limpiar esta
-        base de datos en los archivos 'data_wrangling_estaciones' y 'data_cleaning_estaciones'. Pueden ver cómo quedó al final
-        en el archivo 'estaciones_limpias_v1.csv'. 
+	base de datos en los archivos 'data_wrangling_estaciones' y 'data_cleaning_estaciones'. Pueden ver cómo quedó al final
+	en el archivo 'estaciones_limpias_v1.csv'. 
 
