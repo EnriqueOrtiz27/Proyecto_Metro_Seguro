@@ -18,16 +18,7 @@ Para cada estación de metro obtuve el promedio de visitantes al día. La base d
 
 ## Análisis Horas más Peligrosas
 
-Este fue el inciso más retador. En el Notebook 'Analizando horas más peligrosas' se encuentra el procedimiento a detalle. Básicamente me vi obligado a determinar, para cada estación, qué porcentaje de los crímenes que se han realizado en esa estación han ocurrido en cada hora. 
-
-Por ejemplo, si la estación X tiene 100 crímenes al día, 10 por cada hora entre las 10 a.m. y las 8 p.m. entonces tendría algo así en la base de datos:
-
-nombre_estacion     hora_5  hora_6 hora_7 hora_8 hora_9 hora_10 hora_11 hora_12 ...... hora_20 hora_21 hora_22 hora_23 
-
-estacion X            0.0     0.0    0.0    0.0    0.0    0.10    .10     .10            0.0      0.0     0.0    0.0 
-
-
-Notar cómo el .10 significa que el 10% de los crímenes de esa estación ocurrieron a esas horas. Notar también que la hora 20 (8 p.m) tiene el 0% porque para entonces ya *transcurrieron* diez horas (si los delitos empezaron a las 10 de la mañana, tenemos entonces: 10, 11, 12, 1, 2, 3, 4, 5, 6 y 7).
+Este fue el inciso más retador. En el Notebook 'Analizando horas más peligrosas' se encuentra el procedimiento a detalle. Básicamente me vi obligado a determinar, para cada estación, qué porcentaje de los crímenes que se han realizado en esa estación han ocurrido en cada hora. Ver el Notebook para una explicación más clara.  
 
 
 
