@@ -16,6 +16,6 @@ Entonces tenemos algo así:
 
 (nota: 195x775,000 = 151'125,000)
 
-Y esto para los 775,000 delitos. Después, mi computadora encontraba el mínimo de esas distancias y así lograba decirme cuál era la estación más cercana para cada delito. La razón por la que necesitaba saber eso es porque más adelante habría de clasificar a las estaciones de metro según su nivel de seguridad, así como dar información de la colonia en la que pertenecen. Más sobre esto en la sección 'Data Analysis.'
+Y esto para los 775,000 delitos. Después, mi computadora encontraba el mínimo de esas distancias y así lograba decirme cuál era la estación más cercana para cada delito. La razón por la que necesitaba saber eso es porque más adelante habría de clasificar a las estaciones de metro según su nivel de seguridad, así como dar información de la colonia a la que pertenecen. Más sobre esto en la sección 'Data Analysis.'
 
 Por ahora basta saber que logré hacer ese puente y que en el csv 'delitos_con_estaciones' se puede ver el resultado. 
