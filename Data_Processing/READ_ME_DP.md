@@ -4,7 +4,7 @@ En esta sección hay pocos archivos. Pero es importante. Recordemos que ninguna 
 
 ## La fórmula del haversine. 
 
-La forma en que logré esto es usando la fórmula del haversine, que te permite encontrar la distancia entre dos pares de coordenadas geográficas; es decir, dos pares de números en la forma (latitud, longitud). 
+La forma en que logré esto es usando [la fórmula del haversine](https://es.wikipedia.org/wiki/Fórmula_del_haversine), que te permite encontrar la distancia entre dos pares de coordenadas geográficas; es decir, dos pares de números en la forma (latitud, longitud). 
 
 Computacionalmente hablando, esta fue la parte más pesada para mi computadora. El archivo 'sublime_775_000.py' tardó más de 8 horas en correr. 
 
