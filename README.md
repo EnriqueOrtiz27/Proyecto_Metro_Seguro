@@ -11,11 +11,15 @@ Como motivación para el proyecto, podemos ver la siguiente imagen. Es un mapa d
 Ya sabemos que Google nos da los horarios más populares, pero ¿quién conoce los horarios más seguros? Nosotros utilizamos la información de los [datos abiertos de la PGJ](https://datos.cdmx.gob.mx/pages/home/) para encontrar patrones y brindarle a los usuarios del Metro información que pudiera mejorar su toma de decisiones. 
 
 
-**Google** 
+
+
+## **Google** 
 ![Google](images/google.png)
 
 
-**Nosotros**
+
+
+## **Nosotros**
 ![Nosotros](images/zocalo_crimen_v5.png)
 
 
