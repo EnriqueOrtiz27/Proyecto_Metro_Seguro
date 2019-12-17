@@ -1,8 +1,8 @@
 # Parte III: Análisis de Datos. 
 
-Esta es la parte más interesante. Una vez que limpié mis bases de datos y las acomodé como mejor me parecía, me pude dedicar a realizar el análisis cuantitivo y cualitativo que habría de darle sazón a nuestro proyecto. 
+Esta es la parte más interesante. Una vez que limpié mis bases de datos y las ordené como mejor me parecía, me dediqué a realizar el análisis cuantitivo y cualitativo que habría de darle sazón a nuestro proyecto. 
 
-Veamos qué hice:
+La parte III se puede dividir en las siguientes cuatro partes. 
 
 ## Análisis por Estaciones
 
