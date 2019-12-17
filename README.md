@@ -19,4 +19,11 @@ Nosotros:
 
 
 
+
+| col 1      | col 2      | 
+|------------|-------------| 
+| <img src="images/google.png">| image 2 |
+
+
+
 Dividí el Repo en cuatro partes, cada una de las cuales tiene su propio README. 
