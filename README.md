@@ -14,7 +14,7 @@ Ya sabemos que Google nos da los horarios más populares, pero ¿quién conoce l
 
 
 ## **Google** 
-![Google](images/google.png)
+![Google](images/google_2.png)
 
 
 
