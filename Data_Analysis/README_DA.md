@@ -1,24 +1,25 @@
 # Parte III: Análisis de Datos. 
 
-Esta es la parte más interesante. Una vez que limpié mis bases de datos y las ordené como mejor me parecía, me dediqué a realizar el análisis cuantitivo y cualitativo que habría de darle sazón a nuestro proyecto. 
+Esta es la parte más interesante. Una vez que limpié mis bases de datos y las ordené como mejor me parecía, me dediqué a realizar el análisis cuantitivo y cualitativo necesario para nuestra aplicación. 
 
-La parte III se puede dividir en las siguientes cuatro partes. 
+La parte III se puede dividir en cuatro.
 
-## Análisis por Estaciones
+## Clasificación de Estaciones
 
-Lo primero que hice fue determinar cuáles son las estaciones más seguras y cuáles son las más peligrosas. En el Notebook 'Análisis por estaciones -v2' está detallado el procedimiento con el que realicé esta segmentación. A cada estación le di una calificación del 1-100, en donde 100 significa seguridad extrema y 0, pues, peligro extremo. Además de esto, le asigné a cada estación una posición del 1-180, donde los metros con posición 1 son los más seguros (hubo varios empates, se detalla en el Notebook el porqué) y el metro con la posición 180 es el último en la carrera a la seguridad. 
+Lo primero que hice fue determinar cuáles son las estaciones más seguras y cuáles son las más peligrosas. En el Notebook 'Análisis por estaciones -v2' se detalla la forma en que procedí. Al final de este proceso, pude determinar una califación del 1-100 para el nivel de seguridad de las estaciones y el ranking de cada una respecto a las demás. 
 
-## Análisis por Colonias
+## Clasificación de Colonias
 
-Muy similar al proceso que realicé en el inciso anterior. Determiné qué tan segura o insegura es cada colonia y las ordené según esa calificación. 
+Proceso similar que realicé en el inciso anterior. Determiné qué tan segura o insegura es cada colonia y las ordené acordemente.
 
-## Análisis Afluencia Metro
+## Análisis de la Afluencia
 
 Para cada estación de metro obtuve el promedio de visitantes al día. La base de datos original está en el archivo afluencia-diaria-del-metro-cdmx y es proveída gratuitamente por el gobierno. 
 
-## Análisis Horas más Peligrosas
+## Análisis por Horarios
 
-Este fue el inciso más retador. En el Notebook 'Analizando horas más peligrosas' se encuentra el procedimiento a detalle. Básicamente me vi obligado a determinar, para cada estación, qué porcentaje de los crímenes realizados en esa estación han ocurrido a cada hora. (Por ejemplo, si en la estación 1 el 20% de los crímenes ocurrieron a las 9 a.m. y el resto a las 11 a.m., entonces mi base de datos tendría un valor de .20 en la columna 'hora_9', .80 en la columna 'hora_11' y .0 en el resto de las columnas. Ver el Notebook para mayor información.)  
+Este fue el inciso más retador. En el Notebook 'Analizando horas más peligrosas' se detalla la forma en que procedí. Para cada estación, obtuve la proporción del total de delitos ocurridos en esa estación para cada una de las horas de operación. (Por ejemplo, el resultado está en la forma:  25% de todos los crímenes en la estación del Zócalo han sido entre 8-9 a.m., otro 10% ha sido a las 12 del día, un 25% ha sido de 2-3 p.m y el 40% restante entre 6-7 p.m.) 
 
+Este inciso fue importante porque permitió que nuestra aplicación tuviera el *feature* más importante, y que nos distingue como únicos: un histograma que muestra las horas más seguras y las más inseguras para cada estación (parecido al que está en el README principal del REPO). 
 
 
